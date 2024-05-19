@@ -1,2 +1,0 @@
-# UpInSmoke
-weed, broh

@@ -1,0 +1,18 @@
+{
+    "Cheech": {
+        "locale": {
+            "en": {
+                "Cheech": "Cheech"
+            }
+        },
+        "addVoiceToPlayer": true
+    },
+    "Chong": {
+        "locale": {
+            "en": {
+                "Chong": "Chong"
+            }
+        },
+        "addVoiceToPlayer": true
+    }
+}

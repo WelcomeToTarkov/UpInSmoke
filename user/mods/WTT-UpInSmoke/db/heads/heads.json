@@ -1,0 +1,18 @@
+[
+    {
+        "ID": "upinsmoke",
+        "Name": "Marin",
+        "Shortname": "CC",
+        "Description": "Are you really reading this description dumbass?",
+        "AddtoPlayer": true,
+        "Side": ["Usec", "Bear"]
+    },
+    {
+        "ID": "upinsmoke2",
+        "Name": "Chong",
+        "Shortname": "TC",
+        "Description": "Are you really reading this description dumbass?",
+        "AddtoPlayer": true,
+        "Side": ["Usec", "Bear"]
+    }
+]
